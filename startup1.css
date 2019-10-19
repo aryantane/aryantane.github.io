@@ -7,7 +7,7 @@ body{
 
 .startup{
 	text-align: center;
-	color: white;
+	color: orange ;
 	margin-top: 350px;
 	font-family: roboto;
 }
@@ -25,7 +25,6 @@ body{
 	border-style: none;
 	transition: all 2s;
 	text-align: center;
-	text-transform: uppercase;
 }
 
 h1{
@@ -34,13 +33,13 @@ h1{
 }
 
 h1:hover{
-	transform: scale(1.05);
+	transform: scale(1.2);
 }
 
 .btn-primary:hover{
-	background-color: green;
+	background-color: white;
 	border-style: none;
-	transform: scale(1.1);
+	transform: scale(1.2);
 }
 
 html,body{
